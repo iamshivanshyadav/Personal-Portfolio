@@ -33,7 +33,7 @@ The project consists of the following files:
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0. The full text of the license can be found in the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. The full text of the license can be found in the [LICENSE](LICENSE) file.
 
 ## Usage
 
