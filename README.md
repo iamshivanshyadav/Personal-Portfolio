@@ -42,13 +42,13 @@ To use or modify this portfolio website, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/iamshivanshyadav/Personal-Portfolio.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd your-repo
+   cd Personal-Portfolio
    ```
 
 3. Open the files in your preferred text editor or IDE.
